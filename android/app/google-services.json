@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948314579919",
+    "project_id": "fir-auth-rsfg",
+    "storage_bucket": "fir-auth-rsfg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948314579919:android:829886e57a438ecda328ba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_rsfg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6-3GJrPBe8e3rrGCpQJhzfBi4wKwuqFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
